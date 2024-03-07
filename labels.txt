@@ -1,0 +1,2 @@
+0 Low fracture risk
+1 High fracture risk
